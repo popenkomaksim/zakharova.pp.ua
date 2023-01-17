@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Чи є шанс в Києві підготуватись до ОСС, UTMB чи ще чого?"
+date:   2023-01-02 00:43:34 +0200
+categories: jekyll update
+---
+Можна.
